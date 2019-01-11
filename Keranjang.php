@@ -1,4 +1,5 @@
 <?php
+//membuat fungsi keranjang
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Keranjang extends CI_Model{
